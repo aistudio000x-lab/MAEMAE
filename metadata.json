@@ -1,0 +1,6 @@
+{
+  "name": "100 Days of Us — Celebration Keepsake",
+  "description": "An interactive romantic celebration of our 100th day of talking, featuring milestone stories, favorite conversations, 100 reasons, interactive quiz, audio melody, and an anniversary keepsake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
